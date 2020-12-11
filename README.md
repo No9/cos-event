@@ -2,6 +2,7 @@
 An IBM Cloud Object Store Event Processor
 
 Deploy this application with Code Engine Build
+https://cloud.ibm.com/docs/codeengine?topic=codeengine-build-image 
 
 Create a Cloud Object Store bucket with an event subscription and attach it to the app.
 https://cloud.ibm.com/docs/codeengine?topic=codeengine-cli#cli-subscription
