@@ -1,6 +1,8 @@
 # cos-event
 An IBM Cloud Object Store Event Processor
 
+Just some notes on processing cos events with rust.
+
 Deploy this application with Code Engine Build
 https://cloud.ibm.com/docs/codeengine?topic=codeengine-build-image 
 
